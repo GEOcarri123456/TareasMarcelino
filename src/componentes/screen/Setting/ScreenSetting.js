@@ -19,7 +19,7 @@ const ScreenSetting = () => {
   }
   return (
     <View>
-      <Text style={{marginTop:20, alignContent:"center"}}>Autor: Maria Isabel Pablo Poblete</Text>
+      <Text style={{marginTop:20, alignContent:"center"}}>Autor: Geovani de jesus carrillo Morales </Text>
       <Button style={{marginTop:20, alignContent:"center"}} icon="logout" mode="contained" onPress={() => cerrarsesion()}>
         Cerrar sesión
       </Button>
