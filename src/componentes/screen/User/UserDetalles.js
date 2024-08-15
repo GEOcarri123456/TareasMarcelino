@@ -6,7 +6,7 @@ const UserDetalles = () => {
     <View>
       <Text>Nombre: Marce</Text>
       <Text>Info....</Text>
-      <Text>Tel: 987653456</Text>
+      <Text>Tel: 98438333</Text>
     </View>
   )
 }
