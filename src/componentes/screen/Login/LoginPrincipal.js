@@ -47,7 +47,7 @@ const LoginPrincipal = () => {
     edad:"27"
   }
   const Persona ={
-    nombre:"maria",
+    nombre:"Geovani",
     Edad:"33",
     Escolaridad:"Lic",
     Especialidad:"Medico"
